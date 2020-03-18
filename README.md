@@ -1,7 +1,7 @@
 # BitCoinTransactions
 
 
-The purpose of this application is to accept, process, record and answers questions about Bitcoin transactions.
+The purpose of this application is to accept, process, record and answer questions about Bitcoin transactions.
 
 # Application Interface:
 
